@@ -1,0 +1,22 @@
+{
+  "name": "trex-runner-score-hack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanflux/trex-runner-score-hack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanflux/trex-runner-score-hack/issues"
+  },
+  "homepage": "https://github.com/vanflux/trex-runner-score-hack#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
